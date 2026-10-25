@@ -1,0 +1,11 @@
+Looking through C:\Users\BIT\git\slothsort\demo\zip-check with gemma3:4b...
+  [1/1] files.zip  (16.3s)
+
+Code/
+  files.zip
+    -> assignment3-report-code-main.zip
+       The contents show a .docx and .c file, likely related to a programming assignment.
+
+1 files planned. Nothing has moved yet.
+Took 16s.
+Happy with it? Run: slothsort apply "demo\zip-check"

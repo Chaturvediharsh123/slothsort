@@ -1,0 +1,218 @@
+==== slothsort demo run 25-10-2026 21:46:35.42 ====
+Python 3.12.5
+ollama version is 0.34.2
+
+==== BEFORE ====
+data.json
+doc_final_v2_FINAL.pdf
+download.pdf
+export_1729834.csv
+files.zip
+image (3).png
+Invoice_88213 (1).pdf
+main (2).py
+New Text Document.txt
+Screenshot 2026-10-21 231407.png
+Screenshot 2026-10-23 104512.png
+untitled.md
+VSCodeUserSetup-x64-1.105.1.exe
+WhatsApp Audio 2026-10-19 at 22.14.03.mp3
+
+==== PLAN ====
+Looking through C:\Users\BIT\git\slothsort\demo\live-run with gemma3:4b...
+  [1/14] data.json  (35.3s)
+  [2/14] doc_final_v2_FINAL.pdf  (19.5s)
+  [3/14] download.pdf  (19.9s)
+  [4/14] export_1729834.csv  (23.3s)
+  [5/14] files.zip  (16.0s)
+  [6/14] image (3).png  (69.6s)
+  [7/14] Invoice_88213 (1).pdf  (18.8s)
+  [8/14] main (2).py  (18.2s)
+  [9/14] New Text Document.txt  (16.4s)
+  [10/14] Screenshot 2026-10-21 231407.png  (69.5s)
+  [11/14] Screenshot 2026-10-23 104512.png  (69.1s)
+  [12/14] untitled.md  (17.2s)
+  [13/14] VSCodeUserSetup-x64-1.105.1.exe  (16.4s)
+  [14/14] WhatsApp Audio 2026-10-19 at 22.14.03.mp3  (18.0s)
+
+Finance/
+  doc_final_v2_FINAL.pdf
+    -> rental-agreement-august-2026.pdf
+       The document contains details of a rental agreement including rent and security deposit.
+  download.pdf
+    -> payslip-a-sharma-september-2026.pdf
+       The contents clearly show a payslip with employee and pay period details.
+  export_1729834.csv
+    -> bank-statement-october-2026.csv
+       The CSV data shows a bank statement with dates, descriptions, and monetary values.
+  Invoice_88213 (1).pdf
+    -> electricity-bill-september-2026-a-sharma.pdf
+       The contents clearly show an electricity bill with a consumer number and amount payable.
+  Screenshot 2026-10-21 231407.png
+    -> railway-booking-confirmation.png
+       It shows a train booking confirmation with details like PNR, train name, date, and fare.
+
+Screenshots/
+  image (3).png
+    -> october-spending-chart.png
+       It's a bar chart showing spending categories for October 2026.
+
+Code/
+  data.json
+    -> androapp-version-1-3-0.json
+       The JSON data describes an Android application with version information and permissions.
+  main (2).py
+    -> python-results-checker.py
+       The file contains a Python script that checks a URL for a status code, likely related to checking college results.
+  Screenshot 2026-10-23 104512.png
+    -> android-gradle-build-failure.png
+       The screenshot shows a failed Gradle build output from an Android project.
+  untitled.md
+    -> talk-ideas-college-tech-fest.md
+       The file contains notes about tech festival ideas, specifically related to coding projects.
+
+Installers/
+  VSCodeUserSetup-x64-1.105.1.exe
+    -> vscode-user-setup-1-105-1.exe
+       The file name clearly indicates it's a VSCode installer.
+
+Archives/
+  files.zip
+    -> zip-file.zip
+       The file extension '.zip' indicates it is an archive.
+
+Media/
+  WhatsApp Audio 2026-10-19 at 22.14.03.mp3
+    -> whatsapp-audio-2026-10-19.mp3
+       The file name indicates it's a WhatsApp audio recording from October 19th, 2026.
+
+Notes/
+  New Text Document.txt
+    -> groceries-sunday-plumber.txt
+       The file contains a shopping list and a reminder about a plumbing issue.
+
+14 files planned. Nothing has moved yet.
+Took 428s.
+Happy with it? Run: slothsort apply "demo\live-run"
+
+==== APPLY ====
+Moved 14 files. Changed your mind? Run: slothsort undo "demo\live-run"
+
+==== AFTER ====
+Folder PATH listing for volume Windows 
+Volume serial number is CC76-5510
+C:\USERS\BIT\GIT\SLOTHSORT\DEMO\LIVE-RUN
++---.slothsort
+|       cache.json
+|       history.jsonl
+|       
++---Archives
+|       zip-file.zip
+|       
++---Code
+|       androapp-version-1-3-0.json
+|       android-gradle-build-failure.png
+|       python-results-checker.py
+|       talk-ideas-college-tech-fest.md
+|       
++---Finance
+|       bank-statement-october-2026.csv
+|       electricity-bill-september-2026-a-sharma.pdf
+|       payslip-a-sharma-september-2026.pdf
+|       railway-booking-confirmation.png
+|       rental-agreement-august-2026.pdf
+|       
++---Installers
+|       vscode-user-setup-1-105-1.exe
+|       
++---Media
+|       whatsapp-audio-2026-10-19.mp3
+|       
++---Notes
+|       groceries-sunday-plumber.txt
+|       
+\---Screenshots
+        october-spending-chart.png
+        
+
+==== UNDO ====
+Put 14 files back where they were.
+.slothsort
+data.json
+doc_final_v2_FINAL.pdf
+download.pdf
+export_1729834.csv
+files.zip
+image (3).png
+Invoice_88213 (1).pdf
+main (2).py
+New Text Document.txt
+Screenshot 2026-10-21 231407.png
+Screenshot 2026-10-23 104512.png
+untitled.md
+VSCodeUserSetup-x64-1.105.1.exe
+WhatsApp Audio 2026-10-19 at 22.14.03.mp3
+
+==== SECOND PLAN, cached ====
+Looking through C:\Users\BIT\git\slothsort\demo\live-run with gemma3:4b...
+
+Finance/
+  doc_final_v2_FINAL.pdf
+    -> rental-agreement-august-2026.pdf
+       The document contains details of a rental agreement including rent and security deposit.
+  download.pdf
+    -> payslip-a-sharma-september-2026.pdf
+       The contents clearly show a payslip with employee and pay period details.
+  export_1729834.csv
+    -> bank-statement-october-2026.csv
+       The CSV data shows a bank statement with dates, descriptions, and monetary values.
+  Invoice_88213 (1).pdf
+    -> electricity-bill-september-2026-a-sharma.pdf
+       The contents clearly show an electricity bill with a consumer number and amount payable.
+  Screenshot 2026-10-21 231407.png
+    -> railway-booking-confirmation.png
+       It shows a train booking confirmation with details like PNR, train name, date, and fare.
+
+Screenshots/
+  image (3).png
+    -> october-spending-chart.png
+       It's a bar chart showing spending categories for October 2026.
+
+Code/
+  data.json
+    -> androapp-version-1-3-0.json
+       The JSON data describes an Android application with version information and permissions.
+  main (2).py
+    -> python-results-checker.py
+       The file contains a Python script that checks a URL for a status code, likely related to checking college results.
+  Screenshot 2026-10-23 104512.png
+    -> android-gradle-build-failure.png
+       The screenshot shows a failed Gradle build output from an Android project.
+  untitled.md
+    -> talk-ideas-college-tech-fest.md
+       The file contains notes about tech festival ideas, specifically related to coding projects.
+
+Installers/
+  VSCodeUserSetup-x64-1.105.1.exe
+    -> vscode-user-setup-1-105-1.exe
+       The file name clearly indicates it's a VSCode installer.
+
+Archives/
+  files.zip
+    -> zip-file.zip
+       The file extension '.zip' indicates it is an archive.
+
+Media/
+  WhatsApp Audio 2026-10-19 at 22.14.03.mp3
+    -> whatsapp-audio-2026-10-19.mp3
+       The file name indicates it's a WhatsApp audio recording from October 19th, 2026.
+
+Notes/
+  New Text Document.txt
+    -> groceries-sunday-plumber.txt
+       The file contains a shopping list and a reminder about a plumbing issue.
+
+14 files planned. Nothing has moved yet.
+Took 0s.
+Happy with it? Run: slothsort apply "demo\live-run"
+==== DONE ====
